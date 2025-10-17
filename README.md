@@ -4,18 +4,6 @@ Esta aplicación muestra información sobre nuestros mejores amigos ¡Los perros
 
 ## Cómo ejecutar
 
-### Windows:
-
-- Descargar el archivo ejecutable en la ruta: /build/windows/x64/runner/Release/dogoapp.exe
-- Ejecutar el archivo.
-
-### Web:
-
-- Descargar la carpeta 'web' que está en build.
-- Abrir el archivo 'index.html' que está dentro de la carpeta.
-
-### Otras plataformas:
-
 - Descargar el repositorio completo.
 - Abrirlo usando cualquier IDE (de preferencia IntelliJ).
 - En la terminal del IDE escribir el comando 'flutter build "plataforma_a_compilar"'.
